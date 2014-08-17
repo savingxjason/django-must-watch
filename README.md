@@ -24,6 +24,10 @@ Must-watch videos about Django (or about Python as applied to Django)
 * Kenneth Love **Getting Started with Django, a crash course**
    * [Video (3:23:24)](https://www.youtube.com/watch?v=KZHXjGP71kQ)
 
+* [Real Python](https://realpython.com/) **Django 1.7 Migrations - primer**
+   * [Video (7:09)](http://youtu.be/7PiyO-N6Pho)
+   * [Blog Post](https://realpython.com/blog/python/django-migrations-a-primer/)
+
 ## 2013
 * [GoDjango](https://godjango.com/) **Travis-CI and Coveralls**
     * [Video (6:28)](https://godjango.com/25-travis-ci-and-coveralls/)
