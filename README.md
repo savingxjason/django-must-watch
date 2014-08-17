@@ -24,6 +24,9 @@ Must-watch videos about Django (or about Python as applied to Django)
 * Kenneth Love **Getting Started with Django, a crash course**
    * [Video (3:23:24)](https://www.youtube.com/watch?v=KZHXjGP71kQ)
 
+* James Bennett **Django: The good parts - PyCon 2014**
+   * [Video (30:32)](https://www.youtube.com/watch?v=9Vrk44sHIvw)
+
 ## 2013
 * [GoDjango](https://godjango.com/) **Travis-CI and Coveralls**
     * [Video (6:28)](https://godjango.com/25-travis-ci-and-coveralls/)
