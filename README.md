@@ -48,6 +48,9 @@ Must-watch videos about Django (or about Python as applied to Django)
 * Roger Barnes **Towards continuous deployment with Django**
     * [Video (33:56)](https://www.youtube.com/watch?v=_lgWVkYYtf4)
 
+* Carl Meyer **Testing and Django**
+    * [Video (47:14)](http://pyvideo.org/video/699/testing-and-django)
+
 ## 2011
 * Andew Godwin **Django's architecture - the good, the bad, and the ugly**
     * [Video (40:33)](https://www.youtube.com/watch?v=7KTVws3TiC0)
