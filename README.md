@@ -8,6 +8,9 @@ Must-watch videos about Django (or about Python as applied to Django)
 - [Contributing](#contributing)
 
 ## 2014
+* Guillaume Ardaud **Cache me if you can: memcached, caching patterns and best practices**
+  * [Video (29:44)](https://www.youtube.com/watch?v=R8Xmeynf1T4)
+
 * Russell Keith-Magee **Django 1.7 Sneak Preview**
     * [Video (58:29)](https://www.youtube.com/watch?v=_DPXgr6m1sg)
 
